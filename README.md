@@ -23,8 +23,6 @@ Standalone Pengu Loader plugin · Version 1.0.0 · By DeliriumOverdose
 
 Only the JavaScript file is required. There is no build step, configuration file, external service or WHITE-GOD dependency.
 
-**Already using WHITE-GOD?** Disable its **Better Mode Select** feature before enabling this standalone plugin. Running both versions together creates conflicting drag handlers. Their saved preferences are separate.
-
 ## Using it
 
 Click a queue normally to select it. To move it, hold the mouse button and move a short distance: a label follows the pointer and the destination is highlighted. Release to apply the new order. The top mode cards use standard drag and drop.
